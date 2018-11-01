@@ -1,0 +1,23 @@
+{
+  "name": "chatbot_compras",
+  "version": "1.0.0",
+  "description": "Chatbot creating shopping list",
+  "main": "Chatbot_listaCompras.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/chatbot_compras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/chatbot_compras/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/chatbot_compras#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
+}
